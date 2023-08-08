@@ -2,6 +2,8 @@
 
 CFD simulation via OpenFOAM. Solved with icoFoam solver 
 
+!! In order to run this simulation, you must have OpenFOAM downloaded !!
+
 Cup is 10cm * 10cm with flow speed 1m/s entering from the left wall
  
 Included are the case files for simple flow over a cavity.
