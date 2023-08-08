@@ -1,9 +1,9 @@
-# CupFlow
+# CupFlow #
 
 CFD simulation via OpenFOAM. Solved with icoFoam solver 
 
-# Cup is 10cm * 10cm with flow speed 1m/s entering from the left wall
-#
+Cup is 10cm * 10cm with flow speed 1m/s entering from the left wall
+ 
 # Included are the case files for simple flow over a cavity.
 # 
 #
